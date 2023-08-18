@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://guluyu.xyz</id>
+    <title>咕噜鱼yu</title>
+    <updated>2023-08-18T12:16:49.183Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://guluyu.xyz"/>
+    <link rel="self" href="https://guluyu.xyz/atom.xml"/>
+    <subtitle>欢迎你来我的小窝~喵</subtitle>
+    <logo>https://guluyu.xyz/images/avatar.png</logo>
+    <icon>https://guluyu.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2023, 咕噜鱼yu</rights>
+    <entry>
+        <title type="html"><![CDATA[DAYBREAK FRONTLINE]]></title>
+        <id>https://guluyu.xyz/post/daybreak-frontline/</id>
+        <link href="https://guluyu.xyz/post/daybreak-frontline/">
+        </link>
+        <updated>2023-08-18T12:09:27.000Z</updated>
+        <content type="html"><![CDATA[<p>感傷に浸ってばっか<br>
+沉浸在伤感中</p>
+<p>何も変わらない<br>
+什么都不改变</p>
+<p>笑えない日々を<br>
+没有笑容的的没个日子</p>
+<p>抜け出そうぜ<br>
+摆脱掉吧</p>
+<p>君を連れ飛び出した<br>
+带着你一起飞奔而出</p>
+<p>そんなんで生きていけんのか<br>
+可以就这样活下去吗</p>
+<p>もう戻らないぜ<br>
+已经回不去了</p>
+<p>なんて揺らぎそうな想いは<br>
+飘摇的思绪</p>
+<p>アクセルへ<br>
+踩下油门</p>
+<p>このまま地平線を<br>
+就这样</p>
+<p>追い越してやるんだ<br>
+追寻着地平线</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[いかないで。]]></title>
+        <id>https://guluyu.xyz/post/ikanaide/</id>
+        <link href="https://guluyu.xyz/post/ikanaide/">
+        </link>
+        <updated>2023-08-14T14:41:25.000Z</updated>
+        <content type="html"><![CDATA[<p>别走好吗。</p>
+]]></content>
+    </entry>
+</feed>
